@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="html.xslt"?>
+<?xml-stylesheet type="text/xsl" href="eleves.xsl"?>
 <eleves
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:noNamespaceSchemaLocation="eleves.xsd" annee="2016-2017">
