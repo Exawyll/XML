@@ -1,0 +1,1672 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="html.xslt"?>
+<eleves
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="eleves.xsd" annee="2016-2017">
+	<eleve numero="450-56-608">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>KELLEY</nom>
+			<prenom>Raegan</prenom>
+			<civilite>M.</civilite>
+			<datenaissance>1999-04-29</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SLAM</diplome>
+			<classe>E1R</classe>
+		</formation>
+		<entreprise siren="413-40-054">
+			<nom>3m Company</nom>
+			<telephone>02-35-34-11-51</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="100-01-459">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>MCGUIRE</nom>
+			<prenom>Ernesto</prenom>
+			<civilite>F.</civilite>
+			<datenaissance>1995-04-18</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SLAM</diplome>
+			<classe>E1R</classe>
+		</formation>
+		<entreprise siren="751-63-576">
+			<nom>Maxim Integrated Products</nom>
+			<telephone>02-27-06-95-03</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="344-58-015">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>HESS</nom>
+			<prenom>Hattie</prenom>
+			<civilite>M.</civilite>
+			<datenaissance>1998-08-12</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SISR</diplome>
+			<classe>E1D</classe>
+		</formation>
+		<entreprise siren="154-37-457">
+			<nom>Dillard's</nom>
+			<telephone>02-21-61-56-88</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="837-21-279">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>WILLIAMSON</nom>
+			<prenom>Archer</prenom>
+			<civilite>M.</civilite>
+			<datenaissance>1999-11-18</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SISR</diplome>
+			<classe>A1</classe>
+		</formation>
+		<entreprise siren="670-71-419">
+			<nom>Discovery Communications</nom>
+			<telephone>02-26-12-64-91</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="164-68-083">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>GOODWIN</nom>
+			<prenom>Daisy</prenom>
+			<civilite>M.</civilite>
+			<datenaissance>1995-08-08</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SLAM</diplome>
+			<classe>E1R</classe>
+		</formation>
+		<entreprise siren="045-21-134">
+			<nom>Gm Financial</nom>
+			<telephone>02-71-53-47-69</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="819-32-932">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>HOLMAN</nom>
+			<prenom>Pablo</prenom>
+			<civilite>M.</civilite>
+			<datenaissance>1995-06-07</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SISR</diplome>
+			<classe>E1R</classe>
+		</formation>
+		<entreprise siren="376-55-322">
+			<nom>The Blackstone Group</nom>
+			<telephone>02-14-80-30-55</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="645-35-606">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>INGRAM</nom>
+			<prenom>Itzel</prenom>
+			<civilite>F.</civilite>
+			<datenaissance>1996-10-19</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SISR</diplome>
+			<classe>A1</classe>
+		</formation>
+		<entreprise siren="778-32-976">
+			<nom>Adams Resources &amp; Energy</nom>
+			<telephone>02-63-39-18-44</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="028-39-340">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>KELLEY</nom>
+			<prenom>Claire</prenom>
+			<civilite>F.</civilite>
+			<datenaissance>1998-08-14</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SLAM</diplome>
+			<classe>E1D</classe>
+		</formation>
+		<entreprise siren="549-84-589">
+			<nom>Centene Corporation</nom>
+			<telephone>02-57-93-88-24</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="125-24-270">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>RAMIREZ</nom>
+			<prenom>Abraham</prenom>
+			<civilite>F.</civilite>
+			<datenaissance>1997-02-03</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SLAM</diplome>
+			<classe>E1D</classe>
+		</formation>
+		<entreprise siren="215-45-943">
+			<nom>Kohl's Corporation</nom>
+			<telephone>02-03-11-38-35</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="855-30-338">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>HARTMAN</nom>
+			<prenom>Triston</prenom>
+			<civilite>F.</civilite>
+			<datenaissance>1999-01-04</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SLAM</diplome>
+			<classe>E1R</classe>
+		</formation>
+		<entreprise siren="373-59-718">
+			<nom>Boston Scientific Corporation</nom>
+			<telephone>02-93-34-60-99</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="119-54-621">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>ENGLAND</nom>
+			<prenom>Brayan</prenom>
+			<civilite>F.</civilite>
+			<datenaissance>1996-11-20</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SISR</diplome>
+			<classe>E1D</classe>
+		</formation>
+		<entreprise siren="803-18-674">
+			<nom>Unified Grocers Insurance Services</nom>
+			<telephone>02-85-14-97-54</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="750-50-886">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>OSBORN</nom>
+			<prenom>Zara</prenom>
+			<civilite>M.</civilite>
+			<datenaissance>1996-01-02</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SLAM</diplome>
+			<classe>E1D</classe>
+		</formation>
+		<entreprise siren="609-32-973">
+			<nom>Thrivent Financial For Lutherans</nom>
+			<telephone>02-13-67-21-87</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="688-46-271">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>PERKINS</nom>
+			<prenom>Davion</prenom>
+			<civilite>M.</civilite>
+			<datenaissance>1997-01-09</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SLAM</diplome>
+			<classe>E1R</classe>
+		</formation>
+		<entreprise siren="723-81-496">
+			<nom>Brightpoint</nom>
+			<telephone>02-88-22-07-00</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="708-52-780">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>MASSEY</nom>
+			<prenom>Rosemary</prenom>
+			<civilite>F.</civilite>
+			<datenaissance>1999-05-18</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SLAM</diplome>
+			<classe>A1</classe>
+		</formation>
+		<entreprise siren="533-10-253">
+			<nom>American Express Company</nom>
+			<telephone>02-07-08-74-15</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="846-99-388">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>DILLARD</nom>
+			<prenom>Brody</prenom>
+			<civilite>M.</civilite>
+			<datenaissance>1998-04-25</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SISR</diplome>
+			<classe>A1</classe>
+		</formation>
+		<entreprise siren="659-22-960">
+			<nom>Cf Industries Holdings</nom>
+			<telephone>02-14-77-09-18</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="805-28-625">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>POTTER</nom>
+			<prenom>Yesenia</prenom>
+			<civilite>F.</civilite>
+			<datenaissance>1995-05-11</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SISR</diplome>
+			<classe>E1D</classe>
+		</formation>
+		<entreprise siren="422-99-963">
+			<nom>Belk</nom>
+			<telephone>02-99-22-72-58</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="061-96-421">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>JOHNS</nom>
+			<prenom>Jamal</prenom>
+			<civilite>M.</civilite>
+			<datenaissance>1997-04-04</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SLAM</diplome>
+			<classe>E1R</classe>
+		</formation>
+		<entreprise siren="842-24-374">
+			<nom>Centerpoint Energy</nom>
+			<telephone>02-51-50-85-22</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="674-32-336">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>FITZGERALD</nom>
+			<prenom>Tanner</prenom>
+			<civilite>F.</civilite>
+			<datenaissance>1997-11-06</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SISR</diplome>
+			<classe>A1</classe>
+		</formation>
+		<entreprise siren="409-41-073">
+			<nom>Tetra Tech</nom>
+			<telephone>02-36-85-40-51</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="254-75-291">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>FLYNN</nom>
+			<prenom>Violet</prenom>
+			<civilite>F.</civilite>
+			<datenaissance>1999-04-21</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SLAM</diplome>
+			<classe>E1D</classe>
+		</formation>
+		<entreprise siren="048-72-975">
+			<nom>Mbia Insurance Corporation</nom>
+			<telephone>02-38-30-12-34</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="235-36-250">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>CHANDLER</nom>
+			<prenom>Javon</prenom>
+			<civilite>F.</civilite>
+			<datenaissance>1997-11-20</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SISR</diplome>
+			<classe>E1R</classe>
+		</formation>
+		<entreprise siren="454-11-477">
+			<nom>Puget Sound Energy</nom>
+			<telephone>02-75-37-16-27</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="375-82-905">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>SOLOMON</nom>
+			<prenom>Shayla</prenom>
+			<civilite>F.</civilite>
+			<datenaissance>1996-04-25</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SISR</diplome>
+			<classe>E1R</classe>
+		</formation>
+		<entreprise siren="724-71-759">
+			<nom>Amphenol Corporation</nom>
+			<telephone>02-53-55-10-22</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="275-02-203">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>BYERS</nom>
+			<prenom>Keira</prenom>
+			<civilite>F.</civilite>
+			<datenaissance>1996-08-18</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SLAM</diplome>
+			<classe>E1D</classe>
+		</formation>
+		<entreprise siren="088-11-027">
+			<nom>Westlake Chemical Corporation</nom>
+			<telephone>02-56-45-84-73</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="204-42-212">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>FLORES</nom>
+			<prenom>Ingrid</prenom>
+			<civilite>M.</civilite>
+			<datenaissance>1995-01-16</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SISR</diplome>
+			<classe>A1</classe>
+		</formation>
+		<entreprise siren="715-94-080">
+			<nom>Urban Outfitters</nom>
+			<telephone>02-08-55-15-37</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="266-33-639">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>SOLIS</nom>
+			<prenom>Madisyn</prenom>
+			<civilite>F.</civilite>
+			<datenaissance>1995-04-28</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SISR</diplome>
+			<classe>E1D</classe>
+		</formation>
+		<entreprise siren="131-42-580">
+			<nom>Teradata Corporation</nom>
+			<telephone>02-71-07-93-90</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="846-71-127">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>BLACK</nom>
+			<prenom>Julian</prenom>
+			<civilite>F.</civilite>
+			<datenaissance>1995-03-29</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SISR</diplome>
+			<classe>E1R</classe>
+		</formation>
+		<entreprise siren="301-91-671">
+			<nom>Home Depot Usa</nom>
+			<telephone>02-49-06-69-11</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="434-23-201">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>CAMACHO</nom>
+			<prenom>Aryanna</prenom>
+			<civilite>F.</civilite>
+			<datenaissance>1997-04-27</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SISR</diplome>
+			<classe>A1</classe>
+		</formation>
+		<entreprise siren="470-71-777">
+			<nom>Education Management Corporation</nom>
+			<telephone>02-02-60-24-55</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="113-40-833">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>LARA</nom>
+			<prenom>Mckinley</prenom>
+			<civilite>M.</civilite>
+			<datenaissance>1996-11-15</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SLAM</diplome>
+			<classe>E1D</classe>
+		</formation>
+		<entreprise siren="369-86-940">
+			<nom>National Life Group</nom>
+			<telephone>02-49-54-31-09</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="071-25-913">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>TRAN</nom>
+			<prenom>Casey</prenom>
+			<civilite>M.</civilite>
+			<datenaissance>1999-03-26</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SISR</diplome>
+			<classe>A1</classe>
+		</formation>
+		<entreprise siren="391-96-964">
+			<nom>Goldman Sachs</nom>
+			<telephone>02-61-60-29-01</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="345-39-709">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>HOBBS</nom>
+			<prenom>Lance</prenom>
+			<civilite>M.</civilite>
+			<datenaissance>1995-11-26</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SISR</diplome>
+			<classe>E1R</classe>
+		</formation>
+		<entreprise siren="889-79-729">
+			<nom>Wyndham Worldwide Corp</nom>
+			<telephone>02-95-04-25-07</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="110-78-960">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>PARRISH</nom>
+			<prenom>Reuben</prenom>
+			<civilite>M.</civilite>
+			<datenaissance>1995-06-22</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SLAM</diplome>
+			<classe>E1R</classe>
+		</formation>
+		<entreprise siren="876-55-454">
+			<nom>Itron</nom>
+			<telephone>02-03-76-92-50</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="003-46-360">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>CROSBY</nom>
+			<prenom>Judah</prenom>
+			<civilite>F.</civilite>
+			<datenaissance>1997-05-22</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SISR</diplome>
+			<classe>A1</classe>
+		</formation>
+		<entreprise siren="502-28-323">
+			<nom>Puget Sound Energy</nom>
+			<telephone>02-68-50-31-57</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="817-77-264">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>MCKNIGHT</nom>
+			<prenom>Maya</prenom>
+			<civilite>M.</civilite>
+			<datenaissance>1995-06-17</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SLAM</diplome>
+			<classe>E1D</classe>
+		</formation>
+		<entreprise siren="834-66-664">
+			<nom>General Electric Capital Corporation</nom>
+			<telephone>02-18-97-64-23</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="844-24-512">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>BARKER</nom>
+			<prenom>Quincy</prenom>
+			<civilite>F.</civilite>
+			<datenaissance>1998-11-21</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SISR</diplome>
+			<classe>A1</classe>
+		</formation>
+		<entreprise siren="511-47-226">
+			<nom>Liberty Mutual Holding Company</nom>
+			<telephone>02-25-16-39-31</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="273-72-872">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>COX</nom>
+			<prenom>Layton</prenom>
+			<civilite>F.</civilite>
+			<datenaissance>1995-05-26</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SLAM</diplome>
+			<classe>E1D</classe>
+		</formation>
+		<entreprise siren="143-43-999">
+			<nom>Alliant Techsystems</nom>
+			<telephone>02-59-63-05-58</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="488-88-107">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>ROY</nom>
+			<prenom>Kathryn</prenom>
+			<civilite>F.</civilite>
+			<datenaissance>1995-05-09</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SISR</diplome>
+			<classe>E1R</classe>
+		</formation>
+		<entreprise siren="516-99-071">
+			<nom>Southwestern Energy Company</nom>
+			<telephone>02-21-70-63-49</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="220-15-479">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>DEJESUS</nom>
+			<prenom>Abigail</prenom>
+			<civilite>M.</civilite>
+			<datenaissance>1997-07-05</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SISR</diplome>
+			<classe>E1D</classe>
+		</formation>
+		<entreprise siren="384-64-477">
+			<nom>Genuine Parts Company</nom>
+			<telephone>02-72-83-25-76</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="019-24-690">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>JOSEPH</nom>
+			<prenom>Jaden</prenom>
+			<civilite>F.</civilite>
+			<datenaissance>1999-05-31</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SLAM</diplome>
+			<classe>A1</classe>
+		</formation>
+		<entreprise siren="135-74-581">
+			<nom>Rent-a-center</nom>
+			<telephone>02-13-75-12-22</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="030-51-222">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>KERR</nom>
+			<prenom>Daniella</prenom>
+			<civilite>M.</civilite>
+			<datenaissance>1996-05-07</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SLAM</diplome>
+			<classe>E1D</classe>
+		</formation>
+		<entreprise siren="492-18-248">
+			<nom>Forest Laboratories</nom>
+			<telephone>02-96-47-91-23</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="606-78-369">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>JUAREZ</nom>
+			<prenom>Kassidy</prenom>
+			<civilite>M.</civilite>
+			<datenaissance>1998-03-23</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SLAM</diplome>
+			<classe>E1R</classe>
+		</formation>
+		<entreprise siren="283-95-604">
+			<nom>Robert Half International</nom>
+			<telephone>02-34-88-41-95</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="542-79-351">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>CASE</nom>
+			<prenom>Joziah</prenom>
+			<civilite>F.</civilite>
+			<datenaissance>1995-08-11</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SLAM</diplome>
+			<classe>A1</classe>
+		</formation>
+		<entreprise siren="310-86-736">
+			<nom>Urban Outfitters</nom>
+			<telephone>02-05-41-28-17</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="768-97-484">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>WALL</nom>
+			<prenom>Emiliano</prenom>
+			<civilite>M.</civilite>
+			<datenaissance>1997-10-01</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SLAM</diplome>
+			<classe>E1D</classe>
+		</formation>
+		<entreprise siren="840-94-476">
+			<nom>Northeast Utilities</nom>
+			<telephone>02-12-15-94-42</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="212-92-473">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>SCHULTZ</nom>
+			<prenom>Ryland</prenom>
+			<civilite>F.</civilite>
+			<datenaissance>1995-02-16</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SLAM</diplome>
+			<classe>E1R</classe>
+		</formation>
+		<entreprise siren="063-83-350">
+			<nom>Valmont Industries</nom>
+			<telephone>02-42-83-22-44</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="230-67-913">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>PORTER</nom>
+			<prenom>Emerson</prenom>
+			<civilite>M.</civilite>
+			<datenaissance>1996-10-10</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SISR</diplome>
+			<classe>E1R</classe>
+		</formation>
+		<entreprise siren="286-03-036">
+			<nom>Chevron Corp</nom>
+			<telephone>02-89-43-64-54</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="877-03-914">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>JIMENEZ</nom>
+			<prenom>Amalia</prenom>
+			<civilite>F.</civilite>
+			<datenaissance>1997-11-12</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SISR</diplome>
+			<classe>A1</classe>
+		</formation>
+		<entreprise siren="736-61-531">
+			<nom>Home Depot Usa</nom>
+			<telephone>02-08-94-31-53</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="832-48-150">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>CASEY</nom>
+			<prenom>Brennen</prenom>
+			<civilite>F.</civilite>
+			<datenaissance>1997-05-27</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SISR</diplome>
+			<classe>E1D</classe>
+		</formation>
+		<entreprise siren="073-57-598">
+			<nom>Health Management Associates</nom>
+			<telephone>02-98-48-52-43</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="570-05-067">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>RILEY</nom>
+			<prenom>Kailee</prenom>
+			<civilite>M.</civilite>
+			<datenaissance>1999-10-17</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SISR</diplome>
+			<classe>E1D</classe>
+		</formation>
+		<entreprise siren="095-86-357">
+			<nom>Juniper Networks</nom>
+			<telephone>02-41-83-31-47</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="452-65-495">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>CAIN</nom>
+			<prenom>Dylan</prenom>
+			<civilite>F.</civilite>
+			<datenaissance>1995-09-01</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SLAM</diplome>
+			<classe>E1R</classe>
+		</formation>
+		<entreprise siren="152-43-474">
+			<nom>Graphic Packaging Holding Company</nom>
+			<telephone>02-84-24-23-27</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="003-10-633">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>DENNIS</nom>
+			<prenom>Brendan</prenom>
+			<civilite>F.</civilite>
+			<datenaissance>1999-10-28</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SLAM</diplome>
+			<classe>A1</classe>
+		</formation>
+		<entreprise siren="272-31-775">
+			<nom>Commercial Metals Company</nom>
+			<telephone>02-69-44-14-28</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="863-50-407">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>VELASQUEZ</nom>
+			<prenom>Melody</prenom>
+			<civilite>M.</civilite>
+			<datenaissance>1995-08-14</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SISR</diplome>
+			<classe>E1D</classe>
+		</formation>
+		<entreprise siren="889-97-828">
+			<nom>Cephalon</nom>
+			<telephone>02-05-43-10-06</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="525-72-397">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>MURPHY</nom>
+			<prenom>Kenny</prenom>
+			<civilite>M.</civilite>
+			<datenaissance>1998-01-06</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SLAM</diplome>
+			<classe>E1R</classe>
+		</formation>
+		<entreprise siren="447-11-399">
+			<nom>Regal Beloit Corporation</nom>
+			<telephone>02-99-94-75-69</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="610-49-927">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>CRAFT</nom>
+			<prenom>Lizbeth</prenom>
+			<civilite>M.</civilite>
+			<datenaissance>1997-12-03</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SLAM</diplome>
+			<classe>A1</classe>
+		</formation>
+		<entreprise siren="167-80-393">
+			<nom>Houston Casualty Company</nom>
+			<telephone>02-16-53-72-96</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="595-92-582">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>MUNOZ</nom>
+			<prenom>Justin</prenom>
+			<civilite>F.</civilite>
+			<datenaissance>1997-12-24</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SLAM</diplome>
+			<classe>E1R</classe>
+		</formation>
+		<entreprise siren="848-45-381">
+			<nom>Univision Communications</nom>
+			<telephone>02-02-79-31-63</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="624-39-709">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>BALL</nom>
+			<prenom>Kathleen</prenom>
+			<civilite>F.</civilite>
+			<datenaissance>1999-04-28</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SISR</diplome>
+			<classe>A1</classe>
+		</formation>
+		<entreprise siren="682-84-117">
+			<nom>Armstrong World Industries</nom>
+			<telephone>02-16-94-83-36</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="241-86-856">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>OSBORNE</nom>
+			<prenom>Derrick</prenom>
+			<civilite>M.</civilite>
+			<datenaissance>1998-07-24</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SLAM</diplome>
+			<classe>E1R</classe>
+		</formation>
+		<entreprise siren="012-62-001">
+			<nom>Hewlett-packard Company</nom>
+			<telephone>02-62-98-69-72</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="604-82-840">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>BYRD</nom>
+			<prenom>Prince</prenom>
+			<civilite>F.</civilite>
+			<datenaissance>1999-05-16</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SLAM</diplome>
+			<classe>E1D</classe>
+		</formation>
+		<entreprise siren="300-56-976">
+			<nom>Cabot Corporation</nom>
+			<telephone>02-55-91-68-16</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="255-62-121">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>CAMERON</nom>
+			<prenom>Alexander</prenom>
+			<civilite>M.</civilite>
+			<datenaissance>1995-07-31</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SISR</diplome>
+			<classe>A1</classe>
+		</formation>
+		<entreprise siren="766-39-064">
+			<nom>Citigrouporporated</nom>
+			<telephone>02-32-24-78-77</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="799-60-285">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>MAYO</nom>
+			<prenom>Maia</prenom>
+			<civilite>F.</civilite>
+			<datenaissance>1999-03-17</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SLAM</diplome>
+			<classe>E1D</classe>
+		</formation>
+		<entreprise siren="062-17-272">
+			<nom>Alpha Natural Resources</nom>
+			<telephone>02-41-29-23-34</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="851-29-673">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>JOYCE</nom>
+			<prenom>Alvin</prenom>
+			<civilite>F.</civilite>
+			<datenaissance>1997-12-29</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SISR</diplome>
+			<classe>E1D</classe>
+		</formation>
+		<entreprise siren="824-87-482">
+			<nom>First Horizon National Corporation</nom>
+			<telephone>02-89-79-07-75</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="406-58-476">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>SAWYER</nom>
+			<prenom>Ramiro</prenom>
+			<civilite>F.</civilite>
+			<datenaissance>1999-03-11</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SLAM</diplome>
+			<classe>E1R</classe>
+		</formation>
+		<entreprise siren="542-24-283">
+			<nom>Spectra Energy Partners</nom>
+			<telephone>02-74-52-40-18</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="713-27-748">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>MILES</nom>
+			<prenom>Davis</prenom>
+			<civilite>M.</civilite>
+			<datenaissance>1995-08-23</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SLAM</diplome>
+			<classe>E1R</classe>
+		</formation>
+		<entreprise siren="294-94-451">
+			<nom>Fred's</nom>
+			<telephone>02-68-44-28-04</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="100-20-601">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>COX</nom>
+			<prenom>Gerardo</prenom>
+			<civilite>M.</civilite>
+			<datenaissance>1998-06-06</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SISR</diplome>
+			<classe>E1R</classe>
+		</formation>
+		<entreprise siren="832-66-151">
+			<nom>Plexus</nom>
+			<telephone>02-15-35-81-07</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="097-49-753">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>HYDE</nom>
+			<prenom>Gunner</prenom>
+			<civilite>M.</civilite>
+			<datenaissance>1995-01-12</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SISR</diplome>
+			<classe>E1D</classe>
+		</formation>
+		<entreprise siren="352-07-894">
+			<nom>Vulcan Materials Company</nom>
+			<telephone>02-23-35-89-67</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="068-10-905">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>LEON</nom>
+			<prenom>Carlie</prenom>
+			<civilite>F.</civilite>
+			<datenaissance>1997-09-27</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SLAM</diplome>
+			<classe>E1R</classe>
+		</formation>
+		<entreprise siren="051-19-677">
+			<nom>J.b. Hunt Transport</nom>
+			<telephone>02-61-55-01-79</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="052-42-037">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>STOKES</nom>
+			<prenom>Moriah</prenom>
+			<civilite>M.</civilite>
+			<datenaissance>1995-05-15</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SLAM</diplome>
+			<classe>A1</classe>
+		</formation>
+		<entreprise siren="364-96-701">
+			<nom>American Eagle Outfitters</nom>
+			<telephone>02-05-81-95-03</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="740-67-458">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>GIBBS</nom>
+			<prenom>Major</prenom>
+			<civilite>F.</civilite>
+			<datenaissance>1998-11-29</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SLAM</diplome>
+			<classe>E1D</classe>
+		</formation>
+		<entreprise siren="575-49-732">
+			<nom>Dollar General Corporation</nom>
+			<telephone>02-65-97-54-69</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="771-73-225">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>SALAS</nom>
+			<prenom>Sky</prenom>
+			<civilite>F.</civilite>
+			<datenaissance>1998-02-15</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SISR</diplome>
+			<classe>A1</classe>
+		</formation>
+		<entreprise siren="679-67-593">
+			<nom>Casey's General Stores</nom>
+			<telephone>02-61-30-64-06</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="534-16-614">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>GARRISON</nom>
+			<prenom>Aarav</prenom>
+			<civilite>M.</civilite>
+			<datenaissance>1996-05-10</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SISR</diplome>
+			<classe>A1</classe>
+		</formation>
+		<entreprise siren="546-66-813">
+			<nom>Emc Corporation</nom>
+			<telephone>02-06-57-76-14</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="376-91-590">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>MOORE</nom>
+			<prenom>Kane</prenom>
+			<civilite>M.</civilite>
+			<datenaissance>1995-11-03</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SISR</diplome>
+			<classe>E1R</classe>
+		</formation>
+		<entreprise siren="271-16-092">
+			<nom>Nalco Holding Company</nom>
+			<telephone>02-29-89-15-21</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="030-77-528">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>FRANKS</nom>
+			<prenom>Sasha</prenom>
+			<civilite>F.</civilite>
+			<datenaissance>1996-05-01</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SLAM</diplome>
+			<classe>A1</classe>
+		</formation>
+		<entreprise siren="220-05-066">
+			<nom>Fmc Technologies</nom>
+			<telephone>02-12-03-73-32</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="791-34-587">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>HATFIELD</nom>
+			<prenom>Jenna</prenom>
+			<civilite>F.</civilite>
+			<datenaissance>1998-05-15</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SLAM</diplome>
+			<classe>E1R</classe>
+		</formation>
+		<entreprise siren="556-47-882">
+			<nom>Stanley Black &amp; Decker</nom>
+			<telephone>02-59-38-72-51</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="699-92-880">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>VAUGHN</nom>
+			<prenom>Jessie</prenom>
+			<civilite>M.</civilite>
+			<datenaissance>1996-08-24</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SISR</diplome>
+			<classe>A1</classe>
+		</formation>
+		<entreprise siren="737-45-305">
+			<nom>Baxter International</nom>
+			<telephone>02-48-50-66-21</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="343-09-242">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>BALDWIN</nom>
+			<prenom>Kassidy</prenom>
+			<civilite>F.</civilite>
+			<datenaissance>1998-07-08</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SISR</diplome>
+			<classe>E1R</classe>
+		</formation>
+		<entreprise siren="027-85-106">
+			<nom>General Mills</nom>
+			<telephone>02-22-82-11-85</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="887-10-753">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>CLEMONS</nom>
+			<prenom>Kayla</prenom>
+			<civilite>M.</civilite>
+			<datenaissance>1997-08-16</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SLAM</diplome>
+			<classe>E1R</classe>
+		</formation>
+		<entreprise siren="326-92-632">
+			<nom>Auto-owners Insurance Group</nom>
+			<telephone>02-07-05-11-68</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="037-18-548">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>FISHER</nom>
+			<prenom>Shaun</prenom>
+			<civilite>M.</civilite>
+			<datenaissance>1996-09-19</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SISR</diplome>
+			<classe>E1D</classe>
+		</formation>
+		<entreprise siren="630-10-845">
+			<nom>Costco Wholesale Corporation</nom>
+			<telephone>02-36-05-83-79</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="263-17-774">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>NEWMAN</nom>
+			<prenom>Andy</prenom>
+			<civilite>M.</civilite>
+			<datenaissance>1996-04-28</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SISR</diplome>
+			<classe>E1R</classe>
+		</formation>
+		<entreprise siren="116-08-635">
+			<nom>Wesco Distribution</nom>
+			<telephone>02-01-08-28-38</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="598-91-200">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>REYES</nom>
+			<prenom>Lily</prenom>
+			<civilite>M.</civilite>
+			<datenaissance>1997-02-24</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SLAM</diplome>
+			<classe>E1D</classe>
+		</formation>
+		<entreprise siren="369-52-759">
+			<nom>The Hershey Company</nom>
+			<telephone>02-84-23-26-76</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="760-41-275">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>BURTON</nom>
+			<prenom>London</prenom>
+			<civilite>F.</civilite>
+			<datenaissance>1995-10-08</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SLAM</diplome>
+			<classe>A1</classe>
+		</formation>
+		<entreprise siren="535-07-755">
+			<nom>Scripps Networks Interactive</nom>
+			<telephone>02-73-61-82-83</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="688-47-529">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>MCNEIL</nom>
+			<prenom>Carl</prenom>
+			<civilite>F.</civilite>
+			<datenaissance>1997-06-28</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SISR</diplome>
+			<classe>E1R</classe>
+		</formation>
+		<entreprise siren="616-49-890">
+			<nom>Huntsman International</nom>
+			<telephone>02-49-02-34-98</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="245-85-407">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>MUELLER</nom>
+			<prenom>John</prenom>
+			<civilite>F.</civilite>
+			<datenaissance>1997-10-13</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SISR</diplome>
+			<classe>A1</classe>
+		</formation>
+		<entreprise siren="591-47-782">
+			<nom>Saks</nom>
+			<telephone>02-36-27-58-68</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="561-05-505">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>READ</nom>
+			<prenom>Xander</prenom>
+			<civilite>F.</civilite>
+			<datenaissance>1995-07-19</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SLAM</diplome>
+			<classe>A1</classe>
+		</formation>
+		<entreprise siren="867-52-230">
+			<nom>American Express Company</nom>
+			<telephone>02-56-25-19-79</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="086-56-176">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>BOYD</nom>
+			<prenom>Ezra</prenom>
+			<civilite>M.</civilite>
+			<datenaissance>1996-03-13</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SLAM</diplome>
+			<classe>A1</classe>
+		</formation>
+		<entreprise siren="637-67-791">
+			<nom>United Parcel Service</nom>
+			<telephone>02-29-93-44-33</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="655-67-855">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>MATTHEWS</nom>
+			<prenom>Roger</prenom>
+			<civilite>F.</civilite>
+			<datenaissance>1996-12-06</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SISR</diplome>
+			<classe>A1</classe>
+		</formation>
+		<entreprise siren="468-15-419">
+			<nom>Blockbuster</nom>
+			<telephone>02-14-26-55-34</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="790-60-074">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>TRUJILLO</nom>
+			<prenom>Carlie</prenom>
+			<civilite>M.</civilite>
+			<datenaissance>1999-02-14</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SISR</diplome>
+			<classe>A1</classe>
+		</formation>
+		<entreprise siren="026-39-468">
+			<nom>Sunoco</nom>
+			<telephone>02-01-20-72-90</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="408-10-985">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>WEST</nom>
+			<prenom>Brenden</prenom>
+			<civilite>F.</civilite>
+			<datenaissance>1999-08-09</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SISR</diplome>
+			<classe>E1R</classe>
+		</formation>
+		<entreprise siren="618-39-440">
+			<nom>International Flavors &amp; Fragrances</nom>
+			<telephone>02-11-23-40-28</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="159-94-155">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>RUIZ</nom>
+			<prenom>Joe</prenom>
+			<civilite>M.</civilite>
+			<datenaissance>1995-09-26</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SLAM</diplome>
+			<classe>A1</classe>
+		</formation>
+		<entreprise siren="718-38-134">
+			<nom>Hanesbrands</nom>
+			<telephone>02-61-76-56-71</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="221-85-159">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>MARTIN</nom>
+			<prenom>Brendon</prenom>
+			<civilite>M.</civilite>
+			<datenaissance>1998-04-15</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SISR</diplome>
+			<classe>A1</classe>
+		</formation>
+		<entreprise siren="538-78-849">
+			<nom>Hudson City Savings Bank</nom>
+			<telephone>02-95-06-07-12</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="265-82-825">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>BRUCE</nom>
+			<prenom>Dario</prenom>
+			<civilite>M.</civilite>
+			<datenaissance>1997-12-10</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SLAM</diplome>
+			<classe>A1</classe>
+		</formation>
+		<entreprise siren="317-42-037">
+			<nom>Bmc Software</nom>
+			<telephone>02-78-62-23-75</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="868-70-085">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>BOWEN</nom>
+			<prenom>Elliana</prenom>
+			<civilite>M.</civilite>
+			<datenaissance>1998-10-16</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SLAM</diplome>
+			<classe>E1D</classe>
+		</formation>
+		<entreprise siren="137-94-574">
+			<nom>Anderson Instrument Company</nom>
+			<telephone>02-66-36-97-52</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="316-95-324">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>HUNT</nom>
+			<prenom>Lana</prenom>
+			<civilite>M.</civilite>
+			<datenaissance>1997-03-20</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SISR</diplome>
+			<classe>E1D</classe>
+		</formation>
+		<entreprise siren="180-58-706">
+			<nom>Rockwell Collins</nom>
+			<telephone>02-15-72-96-54</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="621-41-308">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>RANDALL</nom>
+			<prenom>Sterling</prenom>
+			<civilite>M.</civilite>
+			<datenaissance>1996-01-25</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SLAM</diplome>
+			<classe>E1D</classe>
+		</formation>
+		<entreprise siren="711-87-226">
+			<nom>Lpl Financial</nom>
+			<telephone>02-95-95-81-71</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="647-85-510">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>JOHNS</nom>
+			<prenom>Damarion</prenom>
+			<civilite>F.</civilite>
+			<datenaissance>1998-12-24</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SLAM</diplome>
+			<classe>A1</classe>
+		</formation>
+		<entreprise siren="340-16-162">
+			<nom>Harris Teeter</nom>
+			<telephone>02-09-97-42-27</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="023-11-659">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>BARRETT</nom>
+			<prenom>Eve</prenom>
+			<civilite>F.</civilite>
+			<datenaissance>1997-07-23</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SLAM</diplome>
+			<classe>E1D</classe>
+		</formation>
+		<entreprise siren="204-50-616">
+			<nom>Casey's General Stores</nom>
+			<telephone>02-35-76-92-61</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="490-16-229">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>BRANCH</nom>
+			<prenom>Dexter</prenom>
+			<civilite>M.</civilite>
+			<datenaissance>1996-06-17</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SISR</diplome>
+			<classe>E1R</classe>
+		</formation>
+		<entreprise siren="524-95-073">
+			<nom>Nationwide Insurance Company</nom>
+			<telephone>02-99-77-20-12</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="178-11-763">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>WILKERSON</nom>
+			<prenom>Edgar</prenom>
+			<civilite>M.</civilite>
+			<datenaissance>1999-12-19</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SISR</diplome>
+			<classe>E1D</classe>
+		</formation>
+		<entreprise siren="385-15-626">
+			<nom>Brookdale Senior Living</nom>
+			<telephone>02-15-96-29-69</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="649-28-527">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>ROSARIO</nom>
+			<prenom>Ezra</prenom>
+			<civilite>F.</civilite>
+			<datenaissance>1999-11-12</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SISR</diplome>
+			<classe>E1R</classe>
+		</formation>
+		<entreprise siren="882-59-421">
+			<nom>Dte Energy Company</nom>
+			<telephone>02-38-82-85-03</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="324-94-027">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>SWEENEY</nom>
+			<prenom>Alicia</prenom>
+			<civilite>M.</civilite>
+			<datenaissance>1995-06-21</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SLAM</diplome>
+			<classe>A1</classe>
+		</formation>
+		<entreprise siren="116-98-923">
+			<nom>Valero Energy Corporation</nom>
+			<telephone>02-32-13-88-63</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="196-31-543">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>ROACH</nom>
+			<prenom>Lea</prenom>
+			<civilite>F.</civilite>
+			<datenaissance>1996-12-12</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SLAM</diplome>
+			<classe>E1R</classe>
+		</formation>
+		<entreprise siren="025-61-603">
+			<nom>Cme Group</nom>
+			<telephone>02-18-29-99-17</telephone>
+		</entreprise>
+	</eleve>
+	<eleve numero="458-84-491">
+		<photo>http://placehold.it/300x250</photo>
+		<etatcivil>
+			<nom>DURHAM</nom>
+			<prenom>Annabell</prenom>
+			<civilite>F.</civilite>
+			<datenaissance>1998-06-10</datenaissance>
+		</etatcivil>
+		<formation>
+			<diplome niveau="2">BTS SIO SISR</diplome>
+			<classe>E1D</classe>
+		</formation>
+		<entreprise siren="222-39-526">
+			<nom>Cenveo</nom>
+			<telephone>02-65-19-69-87</telephone>
+		</entreprise>
+	</eleve>
+</eleves>
