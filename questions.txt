@@ -1,0 +1,17 @@
+1 - les valeurs attributs coef des éléments matiere
+
+2 - le nombre de formation
+
+3 - le nom de tous les  "module"
+
+4 - le texte des sources du module CCI93
+
+5 - le titre du premier module de la formation MCCI
+
+6 - les textes des deux premier élément de chaque module
+	  
+7 - le texte dernier élément fils de chaque formation
+
+8 - le nombre de point du module ayant pour matière le titre "Système Unix"
+
+9 - le titre de la formation ayant moins de 2 modules

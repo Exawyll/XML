@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<formations>
+	<formation code="MCCI">
+		<titre rncp="true">Master CCI</titre>
+		<niveau>5</niveau>
+		<responsable bureau="224">
+			<prenom>Brigitte</prenom>
+			<nom>Dillon</nom>
+		</responsable>
+		<module semestre="1" repere="CCI91">
+			<titre>Initiation à l'algorithmique, système et architecture</titre>
+			<horaire>50</horaire>
+			<points>3</points>
+			<programme/>
+		</module>
+		<module semestre="1" repere="CCI92">
+			<titre>Systèmes d'information</titre>
+			<horaire>100</horaire>
+			<points>6</points>
+			<programme>
+				<matiere><titre>Modèles structurés</titre></matiere>
+				<matiere><titre>Bases de données</titre></matiere>
+			</programme>
+		</module>
+		<module semestre="1" repere="CCI93">
+			<titre>Algorithmique et programmation</titre>
+			<horaire>100</horaire>
+			<points>6</points>
+			<programme>
+				<matiere>
+					<titre>Algorithmique et programmation impérative</titre>
+					<description>
+							Source : <source>http://source.test/2015.pdf</source>
+					</description>
+				</matiere>
+				<matiere>
+					<titre>Programmation et modélisation par objet</titre>
+					<description>
+							Écrire un programme qui demande un nombre entier à l’utilisateur, puis qui calcule et
+							affiche le carré de ce nombre.
+							Exemple : valeur saisie 5 résultat affiché : 25 <br/>
+							Source : <source>http://perso.univ-lyon1.fr/samir.akkouche/LIF5/LIF1/LIF1_TD_2014_2015.pdf</source>
+					</description>
+				</matiere>
+			</programme>
+		</module>
+		 <module semestre="1" repere="CCI94">
+			<titre>Systèmes et réseaux</titre>
+			<horaire>50</horaire>
+			<points>3</points>
+			<programme>
+				<matiere><titre>Système Unix</titre></matiere>
+				<matiere><titre>Architecture des réseaux</titre></matiere>
+			</programme>
+		 </module>
+		<module semestre="2" repere="CCI95">
+			<titre>Modèles et documents structurés</titre>
+			<horaire>100</horaire>
+			<points>6</points>
+			<programme>
+				<matiere><titre>Bases de XML</titre></matiere>
+				<matiere><titre>Applications en XML</titre></matiere>
+			</programme>
+		</module>
+		<module semestre="2" repere="CCI101">
+			<titre>Services du web</titre>
+			<horaire>100</horaire>
+			<points>6</points>
+			<programme>
+				<matiere><titre>Bases des services web</titre></matiere>
+				<matiere><titre>Applications des services web</titre></matiere>
+			</programme>
+		</module>
+		<module semestre="2" repere="CCIstage">
+			<titre>Stage en entreprise</titre>
+			<horaire>560</horaire>
+			<points>27</points>
+			<programme/>
+		</module>
+	</formation>
+	<formation code="BTS">
+    <titre rncp="false">BTS</titre>
+		<niveau>2</niveau>
+		<responsable bureau="224">
+			<prenom>Géraldine</prenom>
+			<nom>Murry</nom>
+		</responsable>
+		<module semestre="1" repere="CCI91">
+			<titre>Initiation à l'algorithmique</titre>
+			<horaire>50</horaire>
+			<points>10</points>
+			<programme/>
+		</module>
+		<module semestre="2" repere="CCI92">
+			<titre>SGBD</titre>
+			<horaire>100</horaire>
+			<points>6</points>
+			<programme>
+				<matiere><titre>Modèles structurés</titre></matiere>
+				<matiere><titre>Bases de données</titre></matiere>
+			</programme>
+		</module>
+
+	</formation>
+</formations>

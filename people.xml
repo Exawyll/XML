@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<People>
+	<Person bornDate="1921-10-22" dieDate="1981-10-29">
+		<Name>Georges BRASSENS</Name>
+		<Description>Georges Brassens, né à Sète le 22 octobre 19211 et mort à Saint-Gély-du-Fesc le 29 octobre 1981, est un poète auteur-compositeur-interprète français.</Description>
+	</Person>
+	<Person bornDate="1929-04-08" dieDate="1979-10-09">
+		<Name>Jacques BREL</Name>
+		<Description>Jacques Brel, né le 8 avril 1929 à Schaerbeek, une commune de Bruxelles (Belgique), et mort le 9 octobre 1978 à Bobigny (France), est un auteur-compositeur-interprète, acteur et réalisateur belge.</Description>
+	</Person>
+	<Person bornDate="1915-12-19" dieDate="1963-10-10">
+		<Name test="test">Edit PIAF</Name>
+		<Description>Surnommée à ses débuts « la Môme Piaf », elle est à l'origine de nombreux succès devenus des classiques du répertoire</Description>
+	</Person>
+	<Person bornDate="1888-09-12" dieDate="1972-01-01">
+		<Name>Maurice Chevalier</Name>
+		<Description>Maurice Chevalier, né Maurice Auguste Chevalier3 le 12 septembre 1888 à Paris 20e et mort le 1er janvier 1972 à Paris 15e, est un chanteur et acteur français.</Description>
+		<truc>
+			<machin>texte</machin>
+		</truc>
+	</Person>
+</People>
